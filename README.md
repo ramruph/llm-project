@@ -4,7 +4,8 @@
 Adding llm notebooks as I work through them
  - llama example
  - llama brochure example
- - Chatbot messaging and History 
+ - Chatbot messaging and History
+ - HuggingFace Pipelines Examples
 
 Added the following LLMs
 - Llama 3.1
@@ -21,3 +22,5 @@ Tools
 
 - Jupyter Notebook
 - Gradio
+
+-HuggingFace
