@@ -6,6 +6,7 @@ Adding llm notebooks as I work through them
  - llama brochure example
  - Chatbot messaging and History
  - HuggingFace Pipelines Examples
+ - HuggingFace Tokenizers Example
 
 Added the following LLMs
 - Llama 3.1
